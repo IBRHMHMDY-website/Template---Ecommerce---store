@@ -1,3 +1,9 @@
+# Template Ecommerce store
+* HTML + CSS + JS
+* Modern CSS3 (Where - is - has- ...)
+* Google Fonts (Fonts)
+* remixicon (Icons)
+* swiper@9 (Sliders)
 This ecommerce website has multiple pages:
 1. Home Page
 2. Product Page
